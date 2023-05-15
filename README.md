@@ -14,11 +14,19 @@ View upcoming and aborted missions
 
 
 The application is built using the following technologies and middleware:
-Node.js
-Express.js
-Mongo Atlas
-Mongoose
-React.js
-Morgan
-cors
-PM2
+Node.js  
+
+Express.js  
+
+Mongo Atlas  
+
+Mongoose  
+
+React.js  
+
+Morgan  
+
+cors  
+
+PM2  
+
